@@ -73,7 +73,7 @@ The Community Support & Financial Empowerment Platform is an innovative initiati
 
 ### Volunteer Use Case
 
-![Donor Use Case](images/Volunteer_usecase.jpg)
+![Donor Use Case](images/Volunnteer_usecase.jpg)
 - Registering, browsing opportunities, applying for events, and participating in community support efforts.
 
 
