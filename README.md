@@ -44,7 +44,7 @@ The Community Support & Financial Empowerment Platform is an innovative initiati
 
 ## Class Diagram
 
-![Class Diagram](images/Architecture.png)
+[View the class Diagram on Google Drive](https://drive.google.com/file/d/18xSCode3DjBXkPwAqxHUxTsqf4eRa-KO/view)
 
 ## Architecture Design
 
