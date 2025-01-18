@@ -55,25 +55,31 @@ The Community Support & Financial Empowerment Platform is an innovative initiati
 
 ### Donor Use Case
 
-![Donor Use Case](images/donor-use-case.png)
+- [Donor Use Case](images/Donor_usecase.pdf)  
 
 - Registration, browsing projects, making donations, and tracking contributions through a personalized dashboard.
 
 ### Beneficiary Use Case
 
-![Beneficiary Use Case](images/beneficiary-use-case.png)
+- [Beneficiary Use Case](images/Beneficiary_usecase.pdf)  
 
 - Submitting requests for support, receiving assistance, and tracking the status of their aid.
 
 ### NGO Use Case
 
-![NGO Use Case](images/ngo-use-case.png)
+- [NGO Use Case](images/NGO_usecase.pdf)  
 
 - Managing projects, connecting with donors, facilitating volunteer efforts, and reporting on the impact of their initiatives.
 
 ### Volunteer Use Case
 
-![Volunteer Use Case](images/volunteer-use-case.png)
+- [Donor Use Case](images/Volunteer_usecase.pdf)
+
+### Admin Use Case
+
+- [Admin Use Case](images/Admin_usecase.pdf)  
+
+
 
 - Registering, browsing opportunities, applying for events, and participating in community support efforts.
 
