@@ -44,11 +44,11 @@ The Community Support & Financial Empowerment Platform is an innovative initiati
 
 ## Class Diagram
 
-![Class Diagram](images/donor-use-case.png)
+![Class Diagram](images/Architecture.png)
 
 ## Architecture Design
 
-![Architecture Design](images/donor-use-case.png)
+![Architecture Design](images/Architecture.png)
 
 
 ## Use Cases
